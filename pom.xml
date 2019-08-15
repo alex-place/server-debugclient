@@ -5,14 +5,10 @@
 	<artifactId>debugclient</artifactId>
 	<name>debugclient</name>
 	<!--The identifier of the parent POM-->
-    
-    
-    <parent >
-    	
-    	
-    	<relativePath>../../badsloth/pom.xml</relativePath>
-        <groupId>badsloth</groupId>
-        <artifactId>badsloth</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
-    </parent>
+   <parent>
+		<relativePath>../../badsloth/pom.xml</relativePath>
+		<groupId>badsloth</groupId>
+		<artifactId>badsloth</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
 </project> 
